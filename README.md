@@ -37,7 +37,8 @@ This custom page showcases all the available navigation options within a custom 
 ## How to Use
 1. Make sure to install all the dependencies.
 2. Import the unmanaged solution.
-3. Have fun exploring Custom Pages!
+3. Add several locations in the Branch table.
+4. Have fun exploring Custom Pages!
   
 ## Contributing
 This is an open-source project. Feel free to contribute by forking the repository and submitting a pull request.
