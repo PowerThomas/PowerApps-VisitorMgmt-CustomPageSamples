@@ -7,8 +7,8 @@ This repository hosts a sample model-driven Power Platform application for manag
 ## Dependencies
 This app has the following dependencies:
 
-1. [**Creator Kit**](aka.ms/CreatorKit): Used for the building blocks of the custom pages.
-2. [**NativeDialogControl**](github.com/PowerThomas/NativeDialogControl): Required for creating native dialogues in custom pages.
+1. [**Creator Kit**](https://aka.ms/CreatorKit): Used for the building blocks of the custom pages.
+2. [**NativeDialogControl**](https://github.com/PowerThomas/NativeDialogControl): Required for creating native dialogues in custom pages.
 
 ## Features
 
