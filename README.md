@@ -36,7 +36,7 @@ This custom page showcases all the available navigation options within a custom 
 
 ## How to Use
 1. Make sure to install all the dependencies.
-2. Import the unmanaged solution.
+2. Import the [unmanaged solution](https://github.com/PowerThomas/PowerApps-VisitorMgmt-CustomPageSamples/releases/tag/Unmanaged).
 3. Add several locations in the Branch table.
 4. Have fun exploring Custom Pages!
   
