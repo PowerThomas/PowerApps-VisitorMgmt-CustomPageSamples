@@ -1,5 +1,5 @@
 # ModelDriven-VisitorManagement-Examples
-![App Home Page](/images/VisitorMngtAppHome.png)
+![App Home Page](/VisitorMngtAppHome.png)
 
 ## Description
 This repository hosts a sample model-driven Power Platform application for managing visitors, featuring custom page examples. **Please note that this app is for demonstration purposes only and is not a fully functional application.**
