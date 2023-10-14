@@ -1,4 +1,4 @@
-# ModelDriven-VisitorManagement-Examples
+# Power Apps - Visitor Management - Custom Page Samples
 ![App Home Page](/VisitorMngtAppHome.png)
 
 ## Description
